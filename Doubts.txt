@@ -18,3 +18,4 @@ stx.show()
 
 but i have doubt that we can just create new object, why we need inheritence
 
+so i understand that main class is like a dad and inheritence is like son, son have all the ability of father with some extra own powers but father have only own powers, he cant use his son ability.
