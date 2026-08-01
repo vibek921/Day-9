@@ -19,3 +19,12 @@ stx.show()
 but i have doubt that we can just create new object, why we need inheritence
 
 so i understand that main class is like a dad and inheritence is like son, son have all the ability of father with some extra own powers but father have only own powers, he cant use his son ability.
+
+
+
+hi, today i created a project and add publish it through vercel. thats why i cany push any new repo today.
+https://our-first-anniversary-phi.vercel.app/
+
+but today I have lots of doubt and conusion, btw today I learn new thing not learn i just know that with vercel we can publish code without domain & hosting. 
+new topic:
+    chatgpt introduce me SSH key, and I also have lots of doubt but in the next 2 days I'll clear all my doubt. (and i will update this file that which day repo I solve my issue), good night its 11:03, I need to go home.
